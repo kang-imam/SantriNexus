@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Cek 123</h1>
+    <h1>Cek Auto Deploy</h1>
 </body>
 </html>
