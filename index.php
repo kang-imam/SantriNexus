@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Cek Auto Deploy</h1>
+    <h1>Coming Soon SantriNexus by Santri Visioner</h1>
 </body>
 </html>
